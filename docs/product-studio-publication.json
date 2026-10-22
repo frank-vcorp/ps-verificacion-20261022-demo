@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "purpose": "product-studio-demo-publication",
+  "source_commit": "1e0eae3d43bfcf017b49bbd3109e9d248a806db8",
+  "source_repository": "frank-vcorp/ps-verificacion-20261022-product",
+  "published_at": "2026-10-22T14:57:59.582Z",
+  "asset_paths": [
+    "docs/index.html",
+    "docs/style.css",
+    "docs/app.js",
+    "docs/model.js"
+  ]
+}
